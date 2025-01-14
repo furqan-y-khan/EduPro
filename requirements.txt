@@ -1,6 +1,6 @@
-streamlit==1.32.0
-pandas==2.2.1
-pillow==10.2.0
-sqlite3-utils==3.35.2
-beautifulsoup4==4.12.3
-requests==2.31.0
+streamlit
+pandas
+pillow
+sqlite3-utils
+beautifulsoup4
+requests
